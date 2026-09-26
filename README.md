@@ -47,7 +47,7 @@ Based in Argentina. Crafting high-converting online stores, tailored web experie
 ---
 
 ### 📂 Featured Focus Areas
-- 📐 **UI/UX & Web Design:** Wireframing, prototyping, brand identity assets, and layout systems.
+- 📐 **UI/UX & Web Design:** Wireframing, prototyping, brand identity, and layout systems.
 - ⚡ **Front-End Architecture:** Responsive design, component-based architecture, and clean code standards.
 - 🛒 **Ecommerce Strategy:** Store customization, conversion rate optimization, and platform integration.
 
@@ -55,6 +55,6 @@ Based in Argentina. Crafting high-converting online stores, tailored web experie
 
 ### 📬 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-121011?style=for-the-badge&logo=firefox&logoColor=white)](https://spaternostro.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-121011?style=for-the-badge&logo=firefox&logoColor=white)](https://www.spaternostro.com.ar/hire)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/spaternostro99)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@dominio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebastian.paternostro@gmail.com)
